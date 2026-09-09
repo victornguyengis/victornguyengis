@@ -1,8 +1,8 @@
-# thang-nguyen-gis
+# Thang (Victor) Nguyen
 
 Thang (Victor) Nguyen
 
-# About me
+## About me
 
 - Hơn 7 năm kinh nghiệm trong lĩnh vực GIS.
 - Có niềm đam mê lớn và nghiên cứu với các giải pháp khoa học dữ liệu không gian, tích cực xây dựng các plugin QGIS và các ứng dụng về dữ liệu địa lý.
@@ -11,11 +11,11 @@ Thang (Victor) Nguyen
 - Qualifications: MEng in Environmental Engineering - BK University.
 - [My Linkedin](https://www.linkedin.com/in/thang-nguyen-gis/).
   
-# Projects
+## Projects
 
 - Blog: [Bỏ Túi GIS](https://botuigis.blogspot.com/)
 - QGIS Plugins:
-- Streamlit simple Apps: [ocrcoordinate_app](https://github.com/victornguyengis/ocrcoordinate_app)|
-- Web Application: [template-webgis-tt16](https://github.com/victornguyengis/template-webgis-tt16)|[webgis-tt16-demo](https://webgisquyhoach.pages.dev/)
+- Streamlit simple Apps: [ocrcoordinate_app](https://github.com/victornguyengis/ocrcoordinate_app) | 
+- Web Application: [template-webgis-tt16](https://github.com/victornguyengis/template-webgis-tt16) | [webgis-tt16-demo](https://webgisquyhoach.pages.dev/)
 - GIS Trannings:
 
