@@ -1,6 +1,6 @@
-# Thang (Victor) Nguyen
+# Hi, I'm Thang 👋
 
-Thang (Victor) Nguyen
+GIS Solutions Engineer | GIS Product Developer | Spatial Data Enthusiast
 
 ## About me
 
