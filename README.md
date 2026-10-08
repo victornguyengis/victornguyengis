@@ -6,7 +6,7 @@
 
 - +7 years of experience in GIS field.
 - Passionate about researching and developing spatial data science solutions, with a focus on building QGIS plugins, ArcGIS tools and Webgis Applications.
-- Research of interest: GeoAI, Digital Earth, Spatial Data Analysis, Surface & Hydrological Modeling, Map Visualization, and Web Applications for Environmental Management, Urban Planning, Smart Cities, and ESG.
+- Research of interest: Digital Earth, Spatial Data Analysis, Surface & Hydrological Modeling, Map Visualization, and Web Applications for Environmental Management, Urban Planning, Smart Cities, and ESG.
 - Founder of Bỏ Túi GIS — a personal project dedicated to sharing GIS knowledge from beginner to advanced levels.
 - Education: MEng in Environmental Engineering — Bach Khoa University.
 - [My Linkedin](https://www.linkedin.com/in/thang-nguyen-gis/).
