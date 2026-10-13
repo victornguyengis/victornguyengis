@@ -20,7 +20,7 @@
 #### 🌐 WebGIS Applications
 
 - Streamlit App: [ocrcoordinate_app](https://github.com/victornguyengis/ocrcoordinate_app)
-- WebGIS Template: [template-webgis-tt16](https://github.com/victornguyengis/template-webgis-tt16) | [webgis-tt16-demo](https://webgisquyhoach.pages.dev/)
+- WebGIS Template: [webgis-tt16-demo](https://webgisquyhoach.pages.dev/)
 
 #### 🗺️ Blog
 
