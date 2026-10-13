@@ -15,7 +15,7 @@
 
 #### 🐍 QGIS Plugins
 
-- Comming soon...
+- BoTuiGIS Plugin: [botuigis-plugin](https://github.com/victornguyengis/botuigis-plugin)
 
 #### 🌐 WebGIS Applications
 
